@@ -1,0 +1,7 @@
+
+Flask==2.3.2
+requests==2.31.0
+PyPDF2==3.0.1
+openai==0.27.8
+openpyxl==3.1.2
+werkzeug==2.3.7
