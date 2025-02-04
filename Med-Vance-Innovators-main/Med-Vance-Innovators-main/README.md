@@ -20,10 +20,7 @@ requests: For making HTTP requests to external services
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/Aakash0705/MEDIExtract-Server.git
-cd MEDIExtract-Server
+
 Set up a virtual environment:
 
 bash
